@@ -1,4 +1,4 @@
 @extends('admin.layouts.template')
 @section('content')
-    Hi From Dashboard
+    All Category
 @endsection
